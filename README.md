@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PoplarViewTool::Renderer.copyright 'Abigail Poppleton', 'All rights reserved'
+```
 
 ## Development
 
